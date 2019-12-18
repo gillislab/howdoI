@@ -33,5 +33,3 @@ Short tutorials on genomic and transcriptomic analyses.
 
 [build the gene ontology](/workflows/howtos_go.md) 
 
-
-#### Inspired by many:
